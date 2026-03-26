@@ -1,0 +1,1 @@
+import java.util.*;class LoginCheck{public static void main(String[] a){Scanner s=new Scanner(System.in);String u=s.nextLine(),p=s.nextLine();if(u.equals("TIT")){if(p.equals("TIT"))System.out.println("Welcome");else System.out.println("Invalid password");}else System.out.println("Invalid user id");}}

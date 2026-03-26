@@ -1,0 +1,1 @@
+import java.util.*;class GradeCalculator{public static void main(String[] a){Scanner s=new Scanner(System.in);int a1=s.nextInt(),a2=s.nextInt(),a3=s.nextInt(),a4=s.nextInt(),a5=s.nextInt();double p=(a1+a2+a3+a4+a5)/5.0;System.out.println(p>=90?"A+":p>=80?"A":p>=70?"B+":p>=60?"B":p>=50?"C":p>=40?"D":"F");}}

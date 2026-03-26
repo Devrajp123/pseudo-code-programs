@@ -1,0 +1,1 @@
+import java.util.*;class CircleCalc{public static void main(String[] a){Scanner s=new Scanner(System.in);double r=s.nextDouble();System.out.println(3.14*r*r);System.out.println(2*3.14*r);}}

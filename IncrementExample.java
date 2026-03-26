@@ -1,0 +1,1 @@
+class IncrementExample{public static void main(String[] a){int x=5;x++;System.out.println(x);}}

@@ -1,0 +1,1 @@
+class NestedIfExample{public static void main(String[] a){int x=10,y=5;if(x>0){if(y>0)System.out.println("Both positive");else System.out.println("x positive, y negative");}else System.out.println("x negative");}}
